@@ -1,0 +1,7 @@
+2026-06-23 10:00:01 INFO Application started
+2026-06-23 10:01:05 ERROR Database connection failed
+2026-06-23 10:02:10 WARNING Memory usage high
+2026-06-23 10:03:20 ERROR Database connection failed
+2026-06-23 10:04:11 INFO User login
+2026-06-23 10:05:22 WARNING Disk space low
+2026-06-23 10:06:33 ERROR Server timeout
